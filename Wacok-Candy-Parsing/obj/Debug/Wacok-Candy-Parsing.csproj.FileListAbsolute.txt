@@ -1,0 +1,16 @@
+c:\users\clue box\documents\visual studio 2013\Projects\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\Wacok-Candy-Parsing.exe.config
+C:\Users\CLUE BOX\Documents\Visual Studio 2013\Projects\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\Wacok-Candy-Parsing.exe
+C:\Users\CLUE BOX\Documents\Visual Studio 2013\Projects\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\Wacok-Candy-Parsing.pdb
+C:\Users\CLUE BOX\Documents\Visual Studio 2013\Projects\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\SpssLib.dll
+C:\Users\CLUE BOX\Documents\Visual Studio 2013\Projects\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\SpssLib.xml
+C:\Users\CLUE BOX\Documents\Visual Studio 2013\Projects\Wacok-Candy-Parsing\Wacok-Candy-Parsing\obj\Debug\Wacok-Candy-Parsing.csprojResolveAssemblyReference.cache
+C:\Users\CLUE BOX\Documents\Visual Studio 2013\Projects\Wacok-Candy-Parsing\Wacok-Candy-Parsing\obj\Debug\Wacok-Candy-Parsing.exe
+C:\Users\CLUE BOX\Documents\Visual Studio 2013\Projects\Wacok-Candy-Parsing\Wacok-Candy-Parsing\obj\Debug\Wacok-Candy-Parsing.pdb
+D:\Dotnet project\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\Wacok-Candy-Parsing.exe.config
+D:\Dotnet project\Wacok-Candy-Parsing\Wacok-Candy-Parsing\obj\Debug\Wacok-Candy-Parsing.exe
+D:\Dotnet project\Wacok-Candy-Parsing\Wacok-Candy-Parsing\obj\Debug\Wacok-Candy-Parsing.pdb
+D:\Dotnet project\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\Wacok-Candy-Parsing.exe
+D:\Dotnet project\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\Wacok-Candy-Parsing.pdb
+D:\Dotnet project\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\SpssLib.dll
+D:\Dotnet project\Wacok-Candy-Parsing\Wacok-Candy-Parsing\bin\Debug\SpssLib.xml
+D:\Dotnet project\Wacok-Candy-Parsing\Wacok-Candy-Parsing\obj\Debug\Wacok-Candy-Parsing.csprojResolveAssemblyReference.cache
