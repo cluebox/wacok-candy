@@ -15,7 +15,7 @@ namespace Wacok_Candy_Parsing
         {
             int SurveyID = 600597;
             //string SurveyPeriod = "2014-09-30";//survey period
-            string AttendedOn = "2018-12-31";
+            string AttendedOn = "2018-11-30";
             //string year = getYear(SurveyPeriod); 
             string country = "Indonesia";//survey country
             DB_insertion_candy_wacok iobj = new DB_insertion_candy_wacok();
