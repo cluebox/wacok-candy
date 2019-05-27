@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Data.SqlClient;
 
-//test on resposry
+//test on resposry 
 namespace Wacok_Candy_Parsing
 {
     class DB_insertion_candy_wacok
