@@ -7,6 +7,7 @@ using System.Data.SqlClient;
 //test on resposry 
 namespace Wacok_Candy_Parsing
 {
+    //Git for test...
     class DB_insertion_candy_wacok
     {
         SqlConnection connection = new SqlConnection("Data Source=52.74.59.117;Initial Catalog=ClueboxMobile;Persist Security Info=True;User ID=sa;Password=ClueBox123*;");
